@@ -1,0 +1,47 @@
+#VRML V2.0 utf8
+# Body envelope for ZGWD HW0510010-222R-001 (LCSC C48678014).
+# ZGWD does not publish a STEP/WRL for this part. The box matches the
+# LCSC footprint silkscreen (13.098 mm x 2.921 mm) and the JLCPCB
+# height-above-board of 1 mm. Units are KiCad VRML units (0.1 inch).
+
+Shape {
+  appearance Appearance {
+    material Material {
+      diffuseColor 0.12 0.12 0.12
+      specularColor 0.3 0.3 0.3
+      ambientIntensity 0.2
+      transparency 0.0
+      shininess 0.2
+    }
+  }
+  geometry IndexedFaceSet {
+    ccw TRUE
+    solid FALSE
+    coord Coordinate {
+      point [
+        -2.578346  -0.400000  0.000000,
+         2.578346  -0.400000  0.000000,
+         2.578346   0.750000  0.000000,
+        -2.578346   0.750000  0.000000,
+        -2.578346  -0.400000  0.393701,
+         2.578346  -0.400000  0.393701,
+         2.578346   0.750000  0.393701,
+        -2.578346   0.750000  0.393701
+      ]
+    }
+    coordIndex [
+      0, 2, 1, -1,
+      0, 3, 2, -1,
+      4, 5, 6, -1,
+      4, 6, 7, -1,
+      0, 1, 5, -1,
+      0, 5, 4, -1,
+      1, 2, 6, -1,
+      1, 6, 5, -1,
+      2, 3, 7, -1,
+      2, 7, 6, -1,
+      3, 0, 4, -1,
+      3, 4, 7, -1
+    ]
+  }
+}

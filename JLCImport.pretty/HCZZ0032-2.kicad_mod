@@ -1,0 +1,186 @@
+(footprint "HCZZ0032-2"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "-25℃~+85℃ 1 1A 1mm 1x2P 2 2P 4.3mm 50V 5mm Beige Copper LCP SH Surface Mount, Right Angle Tin SMD,P=1mm,卧贴 Wire To Board Connector ROHS")
+	(tags "C7433423 CONN-SMD_HCZZ0032-2 HCZZ0032-2 Hong Cheng")
+	(property "Reference" "REF**"
+		(at 0 -3.55 0)
+		(layer "F.SilkS")
+		(uuid "0681079c-6b51-4564-801f-132e6419db51")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "~"
+		(at 0 3.95 0)
+		(layer "F.Fab")
+		(uuid "6189415d-4f4d-41d1-9ec7-b630d9502847")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2306261509_Hong-Cheng-HCZZ0032-2_C7433423.pdf"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "577cb285-4966-4c0f-ba80-81fa18ccd1cd")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "-25℃~+85℃ 1 1A 1mm 1x2P 2 2P 4.3mm 50V 5mm Beige Copper LCP SH Surface Mount, Right Angle Tin SMD,P=1mm,卧贴 Wire To Board Connector ROHS"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "630b3e44-269f-49d0-965c-6160bca96e55")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "LCSC" "C7433423"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "be21b0d2-1d1d-4144-bc58-95d9ad349d37")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -2.15 -1.7)
+		(end -0.929132 -1.7)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "27978456-caf9-41cb-85fb-6710b6229525")
+	)
+	(fp_line
+		(start -2.15 0.778)
+		(end -2.15 -1.7)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ad5b5db4-4c3c-4023-b3d8-448d410766e3")
+	)
+	(fp_line
+		(start -0.070841 -1.7)
+		(end 0.070866 -1.7)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "23902a03-4382-4515-a44d-1deb0f604e2c")
+	)
+	(fp_line
+		(start 0.929157 -1.7)
+		(end 2.15 -1.7)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c8d9793d-fbdf-4882-90a3-35eeeba94227")
+	)
+	(fp_line
+		(start 1.120851 2.7)
+		(end -1.120851 2.7)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "1bb24bf1-88f4-461f-839b-8c746b2b80cf")
+	)
+	(fp_line
+		(start 2.15 -1.7)
+		(end 2.15 0.778)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e3af0111-967a-44dc-ab0d-35eff4619d73")
+	)
+	(fp_circle
+		(center -1.19 -2.0701)
+		(end -1.09 -2.0701)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "c82f3249-108e-48e4-bf37-20392fec2edb")
+	)
+	(fp_circle
+		(center -1.19 -2.0701)
+		(end -1.09 -2.0701)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "a597c1db-c15b-41e0-8e21-c76b165303f1")
+	)
+	(pad "1" smd rect
+		(at -0.499872 -1.95)
+		(size 0.5 1.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "de99f10d-0355-48e2-a488-1cbb8d16a8fb")
+	)
+	(pad "2" smd rect
+		(at 0.500126 -1.95)
+		(size 0.5 1.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "3b39108e-139b-4ca0-9efd-e70534ad60e7")
+	)
+	(pad "3" smd rect
+		(at -1.7 1.95)
+		(size 0.8 2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "1ed4df0b-17f5-468b-845f-a21ccd8ca2de")
+	)
+	(pad "4" smd rect
+		(at 1.7 1.95)
+		(size 0.8 2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "b291a164-8700-4621-a9a9-daed12ae0924")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/JLCImport.3dshapes/HCZZ0032-2.wrl"
+		(offset
+			(xyz -0.0005 -0.7 3.1)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
+)

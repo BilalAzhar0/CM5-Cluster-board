@@ -1,0 +1,224 @@
+(footprint "TZ-P4-1204RYGTS1-1_5TA"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "-40℃~+80℃ 120° 2.3V、2.4V 20mA 50mcd、200mcd 573nm~578nm、620nm~625nm 60mW Common Anode Red, Yellow Green Side View Mount Water Clear SMD-3P,3.2x1.5mm LED Indication - Discrete ROHS")
+	(tags "C916079 LED-SMD_3P-L3.2-W1.5_TZ-P4-1204RYGTS1-1.5TA TUOZHAN TZ-P4-1204RYGTS1-1.5TA")
+	(property "Reference" "REF**"
+		(at 0 -2.3224 0)
+		(layer "F.SilkS")
+		(uuid "40fab1a2-f477-4069-8121-8fb80af00029")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "~"
+		(at 0 1.5 0)
+		(layer "F.Fab")
+		(uuid "96ae0127-d892-49c5-8a5e-e0c571d00144")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2011131907_TUOZHAN-TZ-P4-1204RYGTS1-1-5TA_C916079.pdf"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "96d26a2c-3d38-4da1-ba82-cbbf38ce4a6d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "-40℃~+80℃ 120° 2.3V、2.4V 20mA 50mcd、200mcd 573nm~578nm、620nm~625nm 60mW Common Anode Red, Yellow Green Side View Mount Water Clear SMD-3P,3.2x1.5mm LED Indication - Discrete ROHS"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5db7b6df-ed53-4f2c-85d1-d372973f03cb")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "LCSC" "C916079"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8e96bfb9-367a-443d-b441-b7ba13fe5b7d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -0.853669 0.381)
+		(end -0.731139 0.381)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a396750c-69de-48cc-87bd-b5ca700acf8d")
+	)
+	(fp_line
+		(start 0.731139 0.381)
+		(end 0.853669 0.381)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "6f0b9bc5-b91f-4cc2-bd61-4da62b9290a6")
+	)
+	(fp_line
+		(start 1.412 -0.625)
+		(end 1.837 -0.625)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "98646f87-490b-454a-8431-e6569b34ec21")
+	)
+	(fp_line
+		(start 1.625 -0.8)
+		(end 1.625 -0.45)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "de2349d4-50a0-49fa-a9b6-4cb3a95fcdb5")
+	)
+	(fp_arc
+		(start -0.914593 -0.521163)
+		(mid 0 -0.9)
+		(end 0.914593 -0.521163)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a02c7e5b-508d-40cf-b6d2-b1668b6bbcfd")
+	)
+	(fp_poly
+		(pts
+			(xy 0.175 -1.122699) (xy 0.175 -0.672699) (xy -0.375 -0.872699)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.SilkS")
+		(uuid "04db6b35-328c-45d7-b220-a4cd66bad24e")
+	)
+	(fp_poly
+		(pts
+			(xy -1.789506 -0.049835) (xy -1.139546 -0.049835) (xy -1.139546 0.05) (xy -1.789506 0.05)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Fab")
+		(uuid "6fb22054-36e2-4c9c-b746-4a8957404652")
+	)
+	(fp_poly
+		(pts
+			(xy -0.319684 -0.05) (xy 0.330327 -0.05) (xy 0.330327 0.05) (xy -0.319684 0.05)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Fab")
+		(uuid "941b82b5-71bc-4531-b7df-f8a604355ed4")
+	)
+	(fp_poly
+		(pts
+			(xy 1.15 -0.05) (xy 1.8 -0.05) (xy 1.8 0.05) (xy 1.15 0.05)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Fab")
+		(uuid "b59941f9-fb44-41a5-8fbd-68c55100aca3")
+	)
+	(fp_poly
+		(pts
+			(xy 1.42 0.319557) (xy 1.42 -0.330429) (xy 1.52 -0.330429) (xy 1.52 0.319557)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Fab")
+		(uuid "91dd36f2-8417-43a1-91de-fe272ce4be4b")
+	)
+	(fp_poly
+		(pts
+			(xy -0.9 -0.65) (xy 0.9 -0.65) (xy 0.833733 -0.776406) (xy 0.750143 -0.892) (xy 0.651 -0.994724)
+			(xy 0.538 -1.082173) (xy 0.41402 -1.15267) (xy 0.281131 -1.20478) (xy 0.14224 -1.23744) (xy 0 -1.25)
+			(xy -0.14224 -1.23744) (xy -0.281131 -1.20478) (xy -0.41402 -1.15267) (xy -0.538 -1.082173) (xy -0.651 -0.994724)
+			(xy -0.750143 -0.892) (xy -0.833733 -0.776406) (xy -0.9 -0.65)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Fab")
+		(uuid "03008ab5-de61-4529-ae81-480c2b5dc394")
+	)
+	(pad "1" smd rect
+		(at -1.47 0)
+		(size 0.8 0.6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "9f527778-dc4b-4245-8b64-59204c8dee74")
+	)
+	(pad "2" smd rect
+		(at 0 0)
+		(size 1 1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "86833597-540e-4d70-b8c3-33e0912223d7")
+	)
+	(pad "3" smd rect
+		(at 1.47 0)
+		(size 0.8 0.6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "0396060b-d807-4d6d-b3f9-d02327c69ca0")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/JLCImport.3dshapes/TZ-P4-1204RYGTS1-1_5TA.wrl"
+		(offset
+			(xyz 0 -0.25 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

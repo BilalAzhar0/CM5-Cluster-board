@@ -1,0 +1,228 @@
+(footprint "HCZZ0039-4"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "-25℃~+85℃ 1 1A 1mm 1x4P 3.76mm 4 4P 50V 6.3mm Beige Copper LCP SH Surface Mount,Vertical Tin SMD,P=1mm Wire To Board Connector ROHS")
+	(tags "C7433440 CONN-SMD_HCZZ0039-4 HCZZ0039-4 Hong Cheng")
+	(property "Reference" "REF**"
+		(at 0 -3.075 0)
+		(layer "F.SilkS")
+		(uuid "25911d69-c49d-4797-a171-5798c257da70")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "~"
+		(at 0 3.225 0)
+		(layer "F.Fab")
+		(uuid "5d1fcd34-68c6-44e5-ba70-b9db2aaf56fa")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2306261509_Hong-Cheng-HCZZ0039-4_C7433440.pdf"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d1f4afb9-cf2a-4ac4-8f4f-3a167fc6276f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "-25℃~+85℃ 1 1A 1mm 1x4P 3.76mm 4 4P 50V 6.3mm Beige Copper LCP SH Surface Mount,Vertical Tin SMD,P=1mm Wire To Board Connector ROHS"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4a96775e-28f1-41a1-9a33-8e1adee17e92")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "LCSC" "C7433440"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a5ae24f3-750d-45d4-a30c-67eabd81ec98")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -3.167126 -1.143)
+		(end -3.167126 0.504)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "09e11e4b-0a93-4fc1-be22-951ad89c7a9c")
+	)
+	(fp_line
+		(start -2.069 2.032)
+		(end 1.068781 2.032)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c975a8f7-fa07-4920-af9e-44bec62996bd")
+	)
+	(fp_line
+		(start -1.9812 -1.143)
+		(end -3.167126 -1.143)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "786d25b1-c84a-4107-a2ed-7dfad8b892af")
+	)
+	(fp_line
+		(start -0.981253 -1.143)
+		(end -1.019 -1.143)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "5376e18b-8848-42e4-87f5-edecd6e202ed")
+	)
+	(fp_line
+		(start 0.018745 -1.143)
+		(end -0.019 -1.143)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "79b5d7be-3e2a-4908-b8f0-f7261bd9e354")
+	)
+	(fp_line
+		(start 1.018743 -1.143)
+		(end 0.981 -1.143)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "15bb9f9a-c6e8-481f-8ff0-bb84a8fde79d")
+	)
+	(fp_line
+		(start 1.068781 2.032)
+		(end 2.068754 2.032)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "8864be5a-86a4-4c80-9bc0-e09c04ccfd65")
+	)
+	(fp_line
+		(start 1.981 -1.143)
+		(end 3.166872 -1.143)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "1affbcf5-08b3-4a7e-a04e-684cecc89689")
+	)
+	(fp_line
+		(start 3.166872 -1.143)
+		(end 3.166872 0.504)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "387f2aa8-eced-46f9-92d0-e38f172610eb")
+	)
+	(fp_circle
+		(center -2.151126 -1.651)
+		(end -2.024126 -1.651)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.SilkS")
+		(uuid "efb705ba-6a05-443e-b611-9af98572166f")
+	)
+	(fp_circle
+		(center -2.151126 -1.651)
+		(end -2.024126 -1.651)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Fab")
+		(uuid "bc8fff60-d534-43ab-a535-5cf426c02027")
+	)
+	(pad "1" smd rect
+		(at -1.5 -1.475)
+		(size 0.5 1.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "b1631f5d-c66d-4814-a72e-5b0648135130")
+	)
+	(pad "2" smd rect
+		(at -0.500126 -1.475)
+		(size 0.5 1.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "588a3656-69e2-4f3f-bc5c-3894cde5378c")
+	)
+	(pad "3" smd rect
+		(at 0.499872 -1.475)
+		(size 0.5 1.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "876c4f88-a156-4111-83d6-f6b67bc7453c")
+	)
+	(pad "4" smd rect
+		(at 1.49987 -1.475)
+		(size 0.5 1.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "56068753-4255-4ad1-acac-455a03cd5b76")
+	)
+	(pad "5" smd rect
+		(at 2.70002 1.475)
+		(size 0.8 1.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "13e7086d-11f1-48ef-b50a-942e38dfbad9")
+	)
+	(pad "6" smd rect
+		(at -2.70002 1.475)
+		(size 0.8 1.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "50556c3d-6ed4-49ba-8fbc-d5b3977cca4c")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/JLCImport.3dshapes/SH_4P_vertical.STEP"
+		(offset
+			(xyz 0 -0.8 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 90 -180 -0)
+		)
+	)
+)

@@ -1,0 +1,233 @@
+(footprint "TD-1100SA-250"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "1.8mm 2.35mm 2.5N 4.8mm Black Rectangular Button SMD(SMT) Tab SPST Surface Mount, Right Angle Without Bracket SMD,4.8x2.4mm Tactile Switches ROHS")
+	(tags "C2905201 DEALON SW-SMD_TD-1100SA-250 TD-1100SA-250")
+	(property "Reference" "REF**"
+		(at 0 -3.63 0)
+		(layer "F.SilkS")
+		(uuid "9eef3191-2e0f-4769-ba93-63a735ebc221")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "~"
+		(at 0 2.4 0)
+		(layer "F.Fab")
+		(uuid "c970450d-65e7-4210-8f01-6009b202c387")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2201121200_DEALON-TD-1100SA-250_C2905201.pdf"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d096c639-b675-4f63-b066-b4d8ac6ec73a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "1.8mm 2.35mm 2.5N 4.8mm Black Rectangular Button SMD(SMT) Tab SPST Surface Mount, Right Angle Without Bracket SMD,4.8x2.4mm Tactile Switches ROHS"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8fe35daa-8851-48c1-8a1e-b28ee8a1f86c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "LCSC" "C2905201"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "cf97fead-06d7-44c1-8891-c37aa64e34d7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -2.469413 -0.169)
+		(end -2.469413 0.655)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "7230d4f5-9759-49b2-8433-70dd961b59e5")
+	)
+	(fp_line
+		(start -2.406218 0.685)
+		(end -2.469413 0.685)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d85d2525-fdc1-4a4a-aad0-7062983022c8")
+	)
+	(fp_line
+		(start -1.8 -1.43002)
+		(end -1 -1.43002)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "4e09b53d-b09b-4eae-b3c2-13d44ede4d9b")
+	)
+	(fp_line
+		(start -1 -1.43002)
+		(end -0.9 -1.43002)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d12001ff-f8ce-4dfd-aab1-13dc54b928cb")
+	)
+	(fp_line
+		(start -0.9 -1.65)
+		(end 0.9 -1.65)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "7c85b0a4-4faf-4395-b011-d39577a3dc8b")
+	)
+	(fp_line
+		(start 0.9 -1.43002)
+		(end 1.89992 -1.43002)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a17594dc-de6f-4544-8b70-488b8337b148")
+	)
+	(fp_line
+		(start 1.05 0.94)
+		(end -1.037793 0.94)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ebf4915b-96fe-4b21-9089-6e71bbde42d3")
+	)
+	(fp_line
+		(start 2.42 0.04)
+		(end 2.42 0.89375)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "16e2409c-069f-44e9-9073-772bd6136371")
+	)
+	(fp_circle
+		(center -0.850138 -0.4)
+		(end -0.712216 -0.4)
+		(stroke
+			(width 0.275)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "d5cb28c8-19d6-48c6-b1b1-14849e9766da")
+	)
+	(fp_circle
+		(center 0.85 -0.4)
+		(end 0.987806 -0.4)
+		(stroke
+			(width 0.275)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "e17df4e6-e281-48a4-96e9-ebda17281d48")
+	)
+	(fp_poly
+		(pts
+			(xy -0.887755 -2.600452) (xy 0.885546 -2.600452) (xy 0.885546 -1.405712) (xy -0.887755 -1.405712)
+			(xy -0.887755 -1.589151)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Fab")
+		(uuid "94a73095-bb47-4552-a8f0-5269ce91e69c")
+	)
+	(pad "" np_thru_hole circle
+		(at -0.850138 -0.4)
+		(size 0.8 0.8)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(uuid "19103ae2-a2b8-465a-80b0-e07756b732cf")
+	)
+	(pad "" np_thru_hole circle
+		(at 0.85 -0.4)
+		(size 0.8 0.8)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(uuid "6efc3fa9-0d89-4f50-9826-22f309e8c5f9")
+	)
+	(pad "1" smd rect
+		(at -1.725168 1)
+		(size 0.9 0.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "4d01ce6a-71df-46f4-82b6-d675273c66d7")
+	)
+	(pad "2" smd rect
+		(at 1.725 1)
+		(size 0.9 0.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "00d81580-091a-4757-9bda-afd02d8d5d84")
+	)
+	(pad "3" smd rect
+		(at -2.4 -1)
+		(size 0.6 1.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "ed28de4a-b2e5-4782-9a3d-2d2fbccb67cb")
+	)
+	(pad "4" smd rect
+		(at 2.4 -1)
+		(size 0.6 1.2)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "475febe6-8596-458c-8e16-5f4065e395bf")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/JLCImport.3dshapes/TD-1100SA-250.wrl"
+		(offset
+			(xyz 0 0.75 0.915)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 -180)
+		)
+	)
+)
